@@ -1,0 +1,30 @@
+
+body{
+    background-image: url('https://i.pinimg.com/564x/e2/58/2e/e2582eb525fb111c919aabffd1009409.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+
+.app{
+    /* text-align: center; */
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.addtodo{
+    /* background-color: darkblue; */
+    text-align: center;
+    padding: 20px;
+}
+.nav{
+    text-align: center;
+}
+h1{
+    color: rgb(133, 67, 29);
+    text-align: center;
+}
+.buutton{
+    /* background-color: rgb(11, 63, 13); */
+    border-radius: 8px;
+    color:rgb(133, 67, 29);
+
+}
